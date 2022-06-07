@@ -8,7 +8,7 @@
     "text": "erg"
   },
   "text": {
-    "more": "WIP (ver 2022-05-31)",
+    "more": "WIP (ver 2022-06-07)",
     "intro": "Глобальный глоссарий",
     "title": "Бизнес-глоссарий ФФ"
   },
@@ -28,7 +28,7 @@
   },
   "sigma": {
     "drawingProperties": {
-      "defaultEdgeType": "line",
+      "defaultEdgeType": "curve",
       "defaultHoverLabelBGColor": "#002147",
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
@@ -36,13 +36,13 @@
       "labelThreshold": 1,
       "defaultLabelHoverColor": "#fff",
       "hoverFontStyle": "bold",
-	  "labelSize": "proportional"
+      "labelSize": "proportional"
     },
     "graphProperties": {
       "maxEdgeSize": 0.5,
       "minEdgeSize": 0.2,
       "minNodeSize": 1,
-      "maxNodeSize": 10
+      "maxNodeSize": 7
     },
     "mouseProperties": {
       "maxRatio": 20,
